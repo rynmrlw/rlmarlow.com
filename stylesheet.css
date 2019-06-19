@@ -1,0 +1,44 @@
+* {
+    background-color: #f8f8f8;
+    text-align: left;
+}
+
+img {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+h3 {
+    color: #2d2d2d;
+    font-size: 18pt;
+    padding-left: 10px;
+
+}
+ul {
+    color: #2d2d2d;
+    padding-left: 40px;
+    line-height: 17pt;
+    margin-top: -5px;
+}
+
+p {
+    color: #2d2d2d;
+    font-size: 12pt;
+    padding-left: 20px;
+    margin-right: 20%;
+    line-height: 17pt;
+}
+
+.section {
+    margin-left: 5%;
+}
+
+.section p {
+    margin-top: 15px;
+}
+
+.jobDescriptions {
+    margin-top: 20px;
+    margin-bottom: -10px;
+    margin-left: 15px;
+}
